@@ -1,0 +1,7 @@
+{
+  "interface": "vcan0",
+  "driver": "socketcan",
+  "extended": false,
+  "filters": [291, 1110, 1792],
+  "human_readable": true
+}
